@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ralph Zepeda</h1>
 <h3 align="center">I am a passionate frontend developer and UI/UX enthusiast specialized in creating modern, clean, and user-friendly website/applications.</h3>
 
-- 🔭 I’m currently working on [Eventflow Bangkok](eventflows.vercel.app) and my portfolio website [rzepeda.vercel.app](rzepeda.vercel.app)
+- 🔭 I’m currently working on [Eventflow Bangkok](eventflows.vercel.app) and my  <a href="rzepeda.vercel.app">portfolio website</>
 
 - 🌱 I’m currently learning **MongoDB, Express, React, NodeJS (MERN Stack)**
 
-- 👨‍💻 All of my projects are available at [rzepeda.vercel.app](rzepeda.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="rzepeda.vercel.app">rzepeda.vercel.app</>
 
 - 📫 How to reach me **ralphpzepeda@gmail.com**
 
